@@ -7,6 +7,7 @@ const About = () => {
       degree: "B.E. Information Technology",
       institution: "RMD Sinhgad College of Engineering",
       period: "2022 - 2026",
+       score: "7.28 CGPA till 6th semester",
       icon: GraduationCap,
       status: "Current"
     },

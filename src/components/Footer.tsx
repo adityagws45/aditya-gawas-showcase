@@ -11,7 +11,7 @@ const Footer = () => {
     },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/in/aditya-gawas",
+      href: "https://www.linkedin.com/in/aditya-gawas-b785bb257/",
       label: "LinkedIn"
     },
     {
@@ -80,7 +80,7 @@ const Footer = () => {
             <div className="space-y-2 text-muted-foreground">
               <p>📧 gawasaditya111@gmail.com</p>
               <p>📱 +91 9322060612</p>
-              <p>📍 Ratnagiri, Maharashtra, India</p>
+              <p>📍 Pune, Maharashtra, India</p>
               <p className="text-sm">Available for remote work</p>
             </div>
           </div>
